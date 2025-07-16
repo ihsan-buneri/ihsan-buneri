@@ -47,7 +47,8 @@ Full Stack AI Engineer with 2+ years of experience designing and delivering web 
 ## 📫 Contacts
 
 - 📧 Email: [ihsanullahb873@gmail.com](mailto:ihsanullahb873@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/ihsanullahkhan](https://www.linkedin.com/in/ihsanullahkhan/)
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/ihsanullahkhan/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/ihsanullahkhan/</a>
+
 
 ---
 
