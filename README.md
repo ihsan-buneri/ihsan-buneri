@@ -53,9 +53,13 @@ Full Stack AI Engineer with 2+ years of experience designing and delivering web 
 
 ## 📊 GitHub Stats
 
+<!--
 <p align="center">
-   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ihsan-buneri&theme=dark" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=ihsan-buneri&theme=dark" alt="GitHub Streak" />
+   </a>
 </p>
+-->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ihsan-buneri&show_icons=true&theme=merko" height="160em" />
