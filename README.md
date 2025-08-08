@@ -29,6 +29,7 @@ Full Stack AI Engineer with 2+ years of experience designing and delivering web 
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000.svg?logo=langchain&logoColor=white" />
+  <img alt="LangGraph" src="https://img.shields.io/badgeLangGraph-000000.svg?logo=langgraph&logoColor=white" />
   <img alt="OpenAI Agents SDK" src="https://img.shields.io/badge/OpenAI_Agents-412991.svg?logo=openai&logoColor=white" />
   <img alt="Google ADK" src="https://img.shields.io/badge/Google_ADK-4285F4.svg?logo=google&logoColor=white" />
 </p>
