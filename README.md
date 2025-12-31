@@ -62,7 +62,7 @@ Full Stack  Engineer with 3+ years of experience designing and delivering web ap
    </a>
 </p>
 -->
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ihsan-buneri&show_icons=true&theme=merko" height="160em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsan-buneri&layout=compact&theme=vision-friendly-dark" height="160em" />
@@ -71,3 +71,4 @@ Full Stack  Engineer with 3+ years of experience designing and delivering web ap
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ihsan-buneri&theme=darkhub&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
+-->
