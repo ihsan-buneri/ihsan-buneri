@@ -23,11 +23,11 @@ Full Stack  Engineer with 3+ years of experience designing and delivering web ap
 #### 🧰 Frameworks & Libraries
 
 <p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" />
   <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000.svg?logo=shadecn&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000.svg?logo=langchain&logoColor=white" />
   <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-000000.svg?logo=langgraph&logoColor=white" />
   <img alt="OpenAI Agents SDK" src="https://img.shields.io/badge/OpenAI_Agents-412991.svg?logo=openai&logoColor=white" />
@@ -52,9 +52,9 @@ Full Stack  Engineer with 3+ years of experience designing and delivering web ap
 
 
 ---
-
+<!--
 ## 📊 GitHub Stats
-
+-->
 <!--
 <p align="center">
    <a href="https://git.io/streak-stats">
