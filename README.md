@@ -2,7 +2,7 @@
 
 ## I'm Ihsan Ullah Khan
 
-Full Stack Engineer with 3+ years of experience designing and delivering web applications and intelligent systems. Proficient in building API services with **FastAPI**,, creating UIs with **React** and **Next.js**, and integrating Generative AI APIs, as well as building intelligent workflows with agentic frameworks  including **OpenAI Agents SDK**, **Claude Agent SDK** and **Google ADK**. Passionate about learning new technologies and delivering high-quality solutions that enhance user experience and drive business value.
+Full Stack Engineer with 3+ years of experience designing and delivering web applications and intelligent systems. Proficient in building API services with **FastAPI**, creating UIs with **React** and **Next.js**, and integrating Generative AI APIs, as well as building intelligent workflows with agentic frameworks  including **OpenAI Agents SDK**, **Claude Agent SDK** and **Google ADK**. Passionate about learning new technologies and delivering high-quality solutions that enhance user experience and drive business value.
 
 ---
 
@@ -27,11 +27,13 @@ Full Stack Engineer with 3+ years of experience designing and delivering web app
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" />
   <img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn%2Fui-000000.svg?logo=shadecn&logoColor=white" />
+  
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white" />
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000.svg?logo=langchain&logoColor=white" />
-  <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-000000.svg?logo=langgraph&logoColor=white" />
   <img alt="OpenAI Agents SDK" src="https://img.shields.io/badge/OpenAI_Agents-412991.svg?logo=openai&logoColor=white" />
   <img alt="Google ADK" src="https://img.shields.io/badge/Google_ADK-4285F4.svg?logo=google&logoColor=white" />
+  <img alt="Claude Agent SDK" src="https://img.shields.io/badge/Claude_Agent_SDK-000000.svg?logo=claude&logoColor=white" />
+
+  
 </p>
 
 #### 🗄️ Databases & Cloud
