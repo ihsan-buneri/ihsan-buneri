@@ -2,7 +2,7 @@
 
 ## I'm Ihsan Ullah Khan
 
-Full Stack Engineer with 3+ years of experience designing and delivering web applications and intelligent systems. Proficient in building API services with **FastAPI**, creating UIs with **React** and **Next.js**, and integrating Generative AI APIs, as well as building intelligent workflows with agentic frameworks  including **Langchain** **OpenAI Agents SDK**, **Claude Agent SDK** and **Google ADK**. Passionate about learning new technologies and delivering high-quality solutions that enhance user experience and drive business value.
+Full Stack Engineer with 3+ years of experience designing and delivering web applications and intelligent systems. Proficient in building API services with **FastAPI**, creating UIs with **React** and **Next.js**, and integrating Generative AI APIs, as well as building intelligent workflows with agentic frameworks  including **Langchain**, **OpenAI Agents SDK**, **Claude Agent SDK** and **Google ADK**. Passionate about learning new technologies and delivering high-quality solutions that enhance user experience and drive business value.
 
 ---
 
